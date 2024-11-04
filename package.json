@@ -17,7 +17,7 @@
   },
   "peerDependencies": {
     "@algorandfoundation/algokit-utils": "^6.2.1",
-    "algosdk": "^2.7.0"
+    "algosdk": "^2.7.0 || ^3.0.0"
   },
   "devDependencies": {
     "@semantic-release/changelog": "6.0.3",
